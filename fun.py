@@ -52,9 +52,9 @@ while(a<=7):
     if(i == 7):
         continue'''
 
-'''k = False
+k = False
 m = float(k)
-print(m)'''
+print(m)
 
 a = 14.5642
 b = 153
